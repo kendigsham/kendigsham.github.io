@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /
-title: "Kendig SHam"
+title: "Kendig Sham"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the Biomedical AI CDT at the Univeristy of Edinburgh. My research focuses on causality and biomedicine. 
+I am a PhD student in the Biomedical AI CDT at the Univeristy of Edinburgh. My research focuses on the intersection between causality and biomedicine. 
 
 
 Research Interest
