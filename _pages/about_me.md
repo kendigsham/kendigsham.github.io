@@ -1,6 +1,7 @@
 ---
+layout: single
 permalink: /
-title: "Yongcheng Yao"
+title: "Kendig SHam"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
